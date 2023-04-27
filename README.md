@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @esstat17
 - 👀 I’m interested in cloud technology, software development, cyber security
 - 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on cloud infrastructure, wordpress
+- 💞️ I’m looking to collaborate on cloud infrastructure, tech stack like NextJs, NodeJs, ReactJs, JamStack, Typescript, Python, etc.
 - 📫 How to reach me ... will update soon, be safe!
 
 <!---
